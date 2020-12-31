@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project (Udacity - Data Science Nanodegree)
+# Disaster Response Pipeline Project (Udacity - Data Science Nanodegree Project)
 
 
 ## Table of Contents
@@ -10,10 +10,10 @@
 6. [License](#license)
 7. [Acknowledgement](#acknowledgement)
 
-<a name="descripton"></a>
+<a name="description"></a>
 ## Description
 
-This porject is a join collboration between Udacity and Figure Eight. This project revolves around messages recieved from rrea-life disaster events. The purpose of this project is to categorize these messages in real-time by building a Ntural Language Processing model.
+This project is a join collaboration between Udacity and Figure Eight. This project revolves around messages received from real-life disaster events. The purpose of this project is to categorize these messages in real-time by building a Natural Language Processing model.
 
 __This project goes as follows:__
 1. Processing data, building an ETL pipeline to extract data from source, clean the data and save them in a SQLite DB
@@ -62,8 +62,7 @@ git clone https://github.com/HunterKane/Disaster-Response-Project.git
 <a name="acknowledgement"></a>
 ## Acknowledgements
 
-This project could not have been completed wihtout the collboration of these two contributors:
+This project could not have been completed without the collaboration of these two contributors:
 
 * [Udacity](https://www.udacity.com/) for providing the learning platform. 
 * [Figure Eight](https://www.figure-eight.com/) for providing the relevant dataset
-
