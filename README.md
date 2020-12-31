@@ -1,31 +1,24 @@
 # Disaster Response Pipeline Project (Udacity - Data Science Nanodegree)
 
-![Intro Pic](screenshots/first.png)
-
 
 ## Table of Contents
 1. [Description](#description)
-2. [Getting Started](#getting_started)
-3. [Dependencies](#dependencies)
-4. [Installing](#installation)
-5. [Executing Program](#execution)
-6. [Authors](#authors)
-7. [License](#license)
-8. [Acknowledgement](#acknowledgement)
+2. [Dependencies](#dependencies)
+3. [Installing](#installation)
+4. [Executing Program](#execution)
+5. [Authors](#authors)
+6. [License](#license)
+7. [Acknowledgement](#acknowledgement)
 
 <a name="descripton"></a>
 ## Description
 
-This Project is part of Data Science Nanodegree Program by Udacity in collaboration with Figure Eight. The dataset contains pre-labelled tweet and messages from real-life disaster events. The project aim is to build a Natural Language Processing (NLP) model to categorize messages on a real time basis.
+This porject is a join collboration between Udacity and Figure Eight. This project revolves around messages recieved from rrea-life disaster events. The purpose of this project is to categorize these messages in real-time by building a Ntural Language Processing model.
 
-This project is divided in the following key sections:
-
+__This project goes as follows:__
 1. Processing data, building an ETL pipeline to extract data from source, clean the data and save them in a SQLite DB
 2. Build a machine learning pipeline to train the which can classify text message in various categories
 3. Run a web app which can show model results in real time
-
-<a name="getting_started"></a>
-## Getting Started
 
 <a name="dependencies"></a>
 ### Dependencies
@@ -57,8 +50,6 @@ git clone https://github.com/HunterKane/Disaster-Response-Project.git
 
 3. Go to http://0.0.0.0:3001/
 
-<a name="material"></a>
-
 <a name="authors"></a>
 ## Authors
 
@@ -71,6 +62,8 @@ git clone https://github.com/HunterKane/Disaster-Response-Project.git
 <a name="acknowledgement"></a>
 ## Acknowledgements
 
-* [Udacity](https://www.udacity.com/) for providing an amazing Data Science Nanodegree Program
-* [Figure Eight](https://www.figure-eight.com/) for providing the relevant dataset to train the model
+This project could not have been completed wihtout the collboration of these two contributors:
+
+* [Udacity](https://www.udacity.com/) for providing the learning platform. 
+* [Figure Eight](https://www.figure-eight.com/) for providing the relevant dataset
 
